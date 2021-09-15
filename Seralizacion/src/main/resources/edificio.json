@@ -1,0 +1,46 @@
+{
+  "direccion": "Calle",
+  "municipio": "Fuenlabra",
+  "apartamentos": [
+    {
+      "planta": 1,
+      "puerta": "A",
+      "propietarios": [
+        {
+          "nombre": "Raul",
+          "apellido": "PraiseTheSun"
+        }
+      ]
+    },
+    {
+      "planta": 1,
+      "puerta": "A",
+      "propietarios": [
+        {
+          "nombre": "Teodoro",
+          "apellido": "Sonico"
+        }
+      ]
+    },
+    {
+      "planta": 2,
+      "puerta": "B",
+      "propietarios": [
+        {
+          "nombre": "Michal",
+          "apellido": "Metroidvania"
+        }
+      ]
+    },
+    {
+      "planta": 3,
+      "puerta": "A",
+      "propietarios": [
+        {
+          "nombre": "Pablo",
+          "apellido": "Japon"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "nombre": "Empresa PEPSI definitivamente no inventada",
+  "departamentos": [
+    {
+      "nombre": "Recursos Humanos",
+      "empleados": [
+        {
+          "nif": "2154542",
+          "nombre": "Pepa",
+          "apellidos": "Pig",
+          "cargo": "jefe de departamento"
+        },
+        {
+          "nif": "222222",
+          "nombre": "Sergio",
+          "apellidos": "Sayian",
+          "cargo": "supervisor"
+        }
+
+      ]
+    },
+
+    {
+      "nombre": "Marketing",
+      "empleados": [
+        {
+          "nif": "211111",
+          "nombre": "Mikel",
+          "apellidos": "Matrix",
+          "cargo": "Diseñador web"
+        },
+
+        {
+          "nif": "3333330",
+          "nombre": "Raul",
+          "apellidos": "Preisedesan",
+          "cargo": "Diseño grafico"
+        }
+
+      ]
+    }
+  ]
+}

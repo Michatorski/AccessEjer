@@ -1,0 +1,300 @@
+2021-10-27 13:41:20 WARN  AnnotationConfigApplicationContext:591 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'studentDAO' defined in org.iesf.instituto.jdbc.InstitutoConfiguration: Unsatisfied dependency expressed through method 'studentDAO' parameter 0; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'jdbcTemplate' defined in org.iesf.instituto.jdbc.InstitutoConfiguration: Unsatisfied dependency expressed through method 'jdbcTemplate' parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'mysqlDataSource' defined in org.iesf.instituto.jdbc.InstitutoConfiguration: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [javax.sql.DataSource]: Factory method 'mysqlDataSource' threw exception; nested exception is java.lang.IllegalStateException: Could not load JDBC driver class [${database.driver}]
+2021-10-27 13:44:40 WARN  AnnotationConfigApplicationContext:591 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'titleProgram' defined in org.iesf.instituto.jdbc.InstitutoConfiguration: Unsatisfied dependency expressed through method 'titleProgram' parameter 0; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.iesf.instituto.jdbc.scannerRead.TitleScannerReader' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}
+2021-10-27 13:46:49 INFO  TitleScannerReader:19 - Introduce 'id' del Title
+2021-10-27 13:48:13 INFO  TitleScannerReader:19 - Introduce 'name' del Title
+2021-10-27 13:48:17 INFO  TitleScannerReader:21 - Introduce 'level' del Title
+2021-10-27 13:48:21 INFO  TitleScannerReader:23 - Introduce 'family' del Title
+2021-10-27 13:48:25 INFO  TitleScannerReader:25 - Introduce 'description' del Title
+2021-10-27 13:49:37 INFO  TitleScannerReader:19 - Introduce 'name' del Title
+2021-10-27 13:49:40 INFO  TitleScannerReader:21 - Introduce 'level' del Title
+2021-10-27 13:49:42 INFO  TitleScannerReader:23 - Introduce 'family' del Title
+2021-10-27 13:49:50 INFO  TitleScannerReader:25 - Introduce 'description' del Title
+2021-10-27 13:50:19 INFO  TitleScannerReader:19 - Introduce 'name' del Title
+2021-10-27 13:50:23 INFO  TitleScannerReader:21 - Introduce 'level' del Title
+2021-10-27 13:50:26 INFO  TitleScannerReader:23 - Introduce 'family' del Title
+2021-10-27 13:50:31 INFO  TitleScannerReader:25 - Introduce 'description' del Title
+2021-10-27 13:51:23 INFO  TitleScannerReader:19 - Introduce 'name' del Title
+2021-10-27 13:51:28 INFO  TitleScannerReader:21 - Introduce 'level' del Title
+2021-10-27 13:51:30 INFO  TitleScannerReader:23 - Introduce 'family' del Title
+2021-10-27 13:51:35 INFO  TitleScannerReader:25 - Introduce 'description' del Title
+2021-10-27 13:52:56 INFO  TitleScannerReader:19 - Introduce 'name' del Title
+2021-10-27 13:53:03 INFO  TitleScannerReader:21 - Introduce 'level' del Title
+2021-10-27 13:53:06 INFO  TitleScannerReader:23 - Introduce 'family' del Title
+2021-10-27 13:53:12 INFO  TitleScannerReader:25 - Introduce 'description' del Title
+2021-10-27 14:03:36 INFO  TitleProgram:29 - Title{id=1, name='dam', level='gs', family='informatica', description='djkdjkn'}
+2021-10-28 10:48:10 INFO  MainMenu:26 - Bienvenido. Escoge la opicion que quiere realizar.
+2021-10-28 10:48:10 INFO  MainMenu:27 - 1. Listar Titulos.
+2021-10-28 10:48:10 INFO  MainMenu:28 - 2. Listar Alumnos.
+2021-10-28 10:48:10 INFO  MainMenu:29 - 3. Listar Grupos.
+2021-10-28 10:48:10 INFO  MainMenu:30 - 4. Insertar Titulos.
+2021-10-28 10:48:10 INFO  MainMenu:31 - 5. Insertar Alumnos.
+2021-10-28 10:48:10 INFO  MainMenu:32 - 6. Insertar Grupos.
+2021-10-28 10:48:23 INFO  MainMenu:26 - Bienvenido. Escoge la opicion que quiere realizar.
+2021-10-28 10:48:23 INFO  MainMenu:27 - 1. Listar Titulos.
+2021-10-28 10:48:23 INFO  MainMenu:28 - 2. Listar Alumnos.
+2021-10-28 10:48:23 INFO  MainMenu:29 - 3. Listar Grupos.
+2021-10-28 10:48:23 INFO  MainMenu:30 - 4. Insertar Titulos.
+2021-10-28 10:48:23 INFO  MainMenu:31 - 5. Insertar Alumnos.
+2021-10-28 10:48:23 INFO  MainMenu:32 - 6. Insertar Grupos.
+2021-10-28 10:49:12 INFO  MainMenu:26 - Bienvenido. Escoge la opicion que quiere realizar.
+2021-10-28 10:49:12 INFO  MainMenu:27 - 1. Listar Titulos.
+2021-10-28 10:49:12 INFO  MainMenu:28 - 2. Listar Alumnos.
+2021-10-28 10:49:12 INFO  MainMenu:29 - 3. Listar Grupos.
+2021-10-28 10:49:12 INFO  MainMenu:30 - 4. Insertar Titulos.
+2021-10-28 10:49:12 INFO  MainMenu:31 - 5. Insertar Alumnos.
+2021-10-28 10:49:12 INFO  MainMenu:32 - 6. Insertar Grupos.
+2021-10-28 10:49:16 INFO  TitleProgram:29 - Title{id=1, name='dam', level='gs', family='informatica', description='djkdjkn'}
+2021-10-28 10:49:16 INFO  MainMenu:26 - Bienvenido. Escoge la opicion que quiere realizar.
+2021-10-28 10:49:16 INFO  MainMenu:27 - 1. Listar Titulos.
+2021-10-28 10:49:16 INFO  MainMenu:28 - 2. Listar Alumnos.
+2021-10-28 10:49:16 INFO  MainMenu:29 - 3. Listar Grupos.
+2021-10-28 10:49:16 INFO  MainMenu:30 - 4. Insertar Titulos.
+2021-10-28 10:49:16 INFO  MainMenu:31 - 5. Insertar Alumnos.
+2021-10-28 10:49:16 INFO  MainMenu:32 - 6. Insertar Grupos.
+2021-10-28 10:56:10 INFO  MainMenu:26 - Bienvenido. Escoge la opicion que quiere realizar.
+2021-10-28 10:56:10 INFO  MainMenu:27 - 1. Listar Titulos.
+2021-10-28 10:56:10 INFO  MainMenu:28 - 2. Listar Alumnos.
+2021-10-28 10:56:10 INFO  MainMenu:29 - 3. Listar Grupos.
+2021-10-28 10:56:10 INFO  MainMenu:30 - 4. Insertar Titulos.
+2021-10-28 10:56:10 INFO  MainMenu:31 - 5. Insertar Alumnos.
+2021-10-28 10:56:10 INFO  MainMenu:32 - 6. Insertar Grupos.
+2021-10-28 10:56:10 INFO  MainMenu:33 - 7. Cerrar la aplicación.
+2021-10-28 10:56:13 INFO  MainMenu:26 - Bienvenido. Escoge la opicion que quiere realizar.
+2021-10-28 10:56:13 INFO  MainMenu:27 - 1. Listar Titulos.
+2021-10-28 10:56:13 INFO  MainMenu:28 - 2. Listar Alumnos.
+2021-10-28 10:56:13 INFO  MainMenu:29 - 3. Listar Grupos.
+2021-10-28 10:56:13 INFO  MainMenu:30 - 4. Insertar Titulos.
+2021-10-28 10:56:13 INFO  MainMenu:31 - 5. Insertar Alumnos.
+2021-10-28 10:56:13 INFO  MainMenu:32 - 6. Insertar Grupos.
+2021-10-28 10:56:13 INFO  MainMenu:33 - 7. Cerrar la aplicación.
+2021-10-28 10:56:29 INFO  StudentScannerReader:18 - Introduce 'nif' del Student
+2021-10-28 10:56:35 INFO  StudentScannerReader:20 - Introduce 'name' del Student
+2021-10-28 10:56:41 INFO  StudentScannerReader:22 - Introduce 'surname' del Student
+2021-10-28 10:56:45 INFO  StudentScannerReader:24 - Introduce 'zipCode' del Student
+2021-10-28 10:56:48 INFO  StudentScannerReader:27 - Introduce 'address' del Student
+2021-10-28 10:56:55 INFO  StudentScannerReader:29 - Introduce 'email' del Student
+2021-10-28 11:04:26 INFO  MainMenu:26 - Bienvenido. Escoge la opicion que quiere realizar.
+2021-10-28 11:04:26 INFO  MainMenu:27 - 1. Listar Titulos.
+2021-10-28 11:04:26 INFO  MainMenu:28 - 2. Listar Alumnos.
+2021-10-28 11:04:26 INFO  MainMenu:29 - 3. Listar Grupos.
+2021-10-28 11:04:26 INFO  MainMenu:30 - 4. Insertar Titulos.
+2021-10-28 11:04:26 INFO  MainMenu:31 - 5. Insertar Alumnos.
+2021-10-28 11:04:26 INFO  MainMenu:32 - 6. Insertar Grupos.
+2021-10-28 11:04:26 INFO  MainMenu:33 - 7. Cerrar la aplicación.
+2021-10-28 11:04:32 INFO  StudentScannerReader:18 - Introduce 'nif' del Student
+2021-10-28 11:04:37 INFO  StudentScannerReader:20 - Introduce 'name' del Student
+2021-10-28 11:04:45 INFO  StudentScannerReader:22 - Introduce 'surname' del Student
+2021-10-28 11:04:49 INFO  StudentScannerReader:24 - Introduce 'zipCode' del Student
+2021-10-28 11:04:53 INFO  StudentScannerReader:27 - Introduce 'address' del Student
+2021-10-28 11:05:01 INFO  StudentScannerReader:29 - Introduce 'email' del Student
+2021-10-28 11:08:22 INFO  MainMenu:26 - Bienvenido. Escoge la opicion que quiere realizar.
+2021-10-28 11:08:22 INFO  MainMenu:27 - 1. Listar Titulos.
+2021-10-28 11:08:22 INFO  MainMenu:28 - 2. Listar Alumnos.
+2021-10-28 11:08:22 INFO  MainMenu:29 - 3. Listar Grupos.
+2021-10-28 11:08:22 INFO  MainMenu:30 - 4. Insertar Titulos.
+2021-10-28 11:08:22 INFO  MainMenu:31 - 5. Insertar Alumnos.
+2021-10-28 11:08:22 INFO  MainMenu:32 - 6. Insertar Grupos.
+2021-10-28 11:08:22 INFO  MainMenu:33 - 7. Cerrar la aplicación.
+2021-10-28 11:08:24 INFO  StudentScannerReader:18 - Introduce 'nif' del Student
+2021-10-28 11:08:28 INFO  StudentScannerReader:20 - Introduce 'name' del Student
+2021-10-28 11:08:32 INFO  StudentScannerReader:22 - Introduce 'surname' del Student
+2021-10-28 11:08:34 INFO  StudentScannerReader:24 - Introduce 'zipCode' del Student
+2021-10-28 11:08:38 INFO  StudentScannerReader:27 - Introduce 'address' del Student
+2021-10-28 11:08:43 INFO  StudentScannerReader:29 - Introduce 'email' del Student
+2021-10-28 11:08:50 INFO  MainMenu:26 - Bienvenido. Escoge la opicion que quiere realizar.
+2021-10-28 11:08:50 INFO  MainMenu:27 - 1. Listar Titulos.
+2021-10-28 11:08:50 INFO  MainMenu:28 - 2. Listar Alumnos.
+2021-10-28 11:08:50 INFO  MainMenu:29 - 3. Listar Grupos.
+2021-10-28 11:08:50 INFO  MainMenu:30 - 4. Insertar Titulos.
+2021-10-28 11:08:50 INFO  MainMenu:31 - 5. Insertar Alumnos.
+2021-10-28 11:08:50 INFO  MainMenu:32 - 6. Insertar Grupos.
+2021-10-28 11:08:50 INFO  MainMenu:33 - 7. Cerrar la aplicación.
+2021-10-28 11:09:44 INFO  MainMenu:26 - Bienvenido. Escoge la opicion que quiere realizar.
+2021-10-28 11:09:44 INFO  MainMenu:27 - 1. Listar Titulos.
+2021-10-28 11:09:44 INFO  MainMenu:28 - 2. Listar Alumnos.
+2021-10-28 11:09:44 INFO  MainMenu:29 - 3. Listar Grupos.
+2021-10-28 11:09:44 INFO  MainMenu:30 - 4. Insertar Titulos.
+2021-10-28 11:09:44 INFO  MainMenu:31 - 5. Insertar Alumnos.
+2021-10-28 11:09:44 INFO  MainMenu:32 - 6. Insertar Grupos.
+2021-10-28 11:09:44 INFO  MainMenu:33 - 7. Cerrar la aplicación.
+2021-10-28 11:10:05 INFO  MainMenu:26 - Bienvenido. Escoge la opicion que quiere realizar.
+2021-10-28 11:10:05 INFO  MainMenu:27 - 1. Listar Titulos.
+2021-10-28 11:10:05 INFO  MainMenu:28 - 2. Listar Alumnos.
+2021-10-28 11:10:05 INFO  MainMenu:29 - 3. Listar Grupos.
+2021-10-28 11:10:05 INFO  MainMenu:30 - 4. Insertar Titulos.
+2021-10-28 11:10:05 INFO  MainMenu:31 - 5. Insertar Alumnos.
+2021-10-28 11:10:05 INFO  MainMenu:32 - 6. Insertar Grupos.
+2021-10-28 11:10:05 INFO  MainMenu:33 - 7. Cerrar la aplicación.
+2021-10-28 11:10:08 INFO  StudentProgram:28 - Student{nif='x777c', name='jjj', surname='vvv', zipCode=34567, address='calle', email='@emailc.om'}
+2021-10-28 11:10:08 INFO  MainMenu:26 - Bienvenido. Escoge la opicion que quiere realizar.
+2021-10-28 11:10:08 INFO  MainMenu:27 - 1. Listar Titulos.
+2021-10-28 11:10:08 INFO  MainMenu:28 - 2. Listar Alumnos.
+2021-10-28 11:10:08 INFO  MainMenu:29 - 3. Listar Grupos.
+2021-10-28 11:10:08 INFO  MainMenu:30 - 4. Insertar Titulos.
+2021-10-28 11:10:08 INFO  MainMenu:31 - 5. Insertar Alumnos.
+2021-10-28 11:10:08 INFO  MainMenu:32 - 6. Insertar Grupos.
+2021-10-28 11:10:08 INFO  MainMenu:33 - 7. Cerrar la aplicación.
+2021-10-28 11:11:58 INFO  MainMenu:26 - Bienvenido. Escoge la opicion que quiere realizar.
+2021-10-28 11:11:58 INFO  MainMenu:27 - 1. Listar Titulos.
+2021-10-28 11:11:58 INFO  MainMenu:28 - 2. Listar Alumnos.
+2021-10-28 11:11:58 INFO  MainMenu:29 - 3. Listar Grupos.
+2021-10-28 11:11:58 INFO  MainMenu:30 - 4. Insertar Titulos.
+2021-10-28 11:11:58 INFO  MainMenu:31 - 5. Insertar Alumnos.
+2021-10-28 11:11:58 INFO  MainMenu:32 - 6. Insertar Grupos.
+2021-10-28 11:11:58 INFO  MainMenu:33 - 7. Cerrar la aplicación.
+2021-10-28 11:14:20 INFO  MainMenu:26 - Bienvenido. Escoge la opicion que quiere realizar.
+2021-10-28 11:14:20 INFO  MainMenu:27 - 1. Listar Titulos.
+2021-10-28 11:14:20 INFO  MainMenu:28 - 2. Listar Alumnos.
+2021-10-28 11:14:20 INFO  MainMenu:29 - 3. Listar Grupos.
+2021-10-28 11:14:20 INFO  MainMenu:30 - 4. Insertar Titulos.
+2021-10-28 11:14:20 INFO  MainMenu:31 - 5. Insertar Alumnos.
+2021-10-28 11:14:20 INFO  MainMenu:32 - 6. Insertar Grupos.
+2021-10-28 11:14:20 INFO  MainMenu:33 - 7. Cerrar la aplicación.
+2021-10-28 11:14:35 INFO  GroupScannerReader:18 - Introduce 'course' del titleGroup
+2021-10-28 11:14:40 INFO  GroupScannerReader:20 - Introduce 'letter' del titleGroup
+2021-10-28 11:14:47 INFO  GroupScannerReader:22 - Introduce 'titleId' del titleGroup
+2021-10-28 11:14:54 INFO  GroupScannerReader:25 - Introduce 'year' del titleGroup
+2021-10-28 11:15:47 INFO  MainMenu:26 - Bienvenido. Escoge la opicion que quiere realizar.
+2021-10-28 11:15:47 INFO  MainMenu:27 - 1. Listar Titulos.
+2021-10-28 11:15:47 INFO  MainMenu:28 - 2. Listar Alumnos.
+2021-10-28 11:15:47 INFO  MainMenu:29 - 3. Listar Grupos.
+2021-10-28 11:15:47 INFO  MainMenu:30 - 4. Insertar Titulos.
+2021-10-28 11:15:47 INFO  MainMenu:31 - 5. Insertar Alumnos.
+2021-10-28 11:15:47 INFO  MainMenu:32 - 6. Insertar Grupos.
+2021-10-28 11:15:47 INFO  MainMenu:33 - 7. Cerrar la aplicación.
+2021-10-28 11:15:58 INFO  GroupScannerReader:18 - Introduce 'course' del titleGroup
+2021-10-28 11:16:12 INFO  GroupScannerReader:20 - Introduce 'letter' del titleGroup
+2021-10-28 11:16:15 INFO  GroupScannerReader:22 - Introduce 'titleId' del titleGroup
+2021-10-28 11:16:50 INFO  MainMenu:26 - Bienvenido. Escoge la opicion que quiere realizar.
+2021-10-28 11:16:50 INFO  MainMenu:27 - 1. Listar Titulos.
+2021-10-28 11:16:50 INFO  MainMenu:28 - 2. Listar Alumnos.
+2021-10-28 11:16:50 INFO  MainMenu:29 - 3. Listar Grupos.
+2021-10-28 11:16:50 INFO  MainMenu:30 - 4. Insertar Titulos.
+2021-10-28 11:16:50 INFO  MainMenu:31 - 5. Insertar Alumnos.
+2021-10-28 11:16:50 INFO  MainMenu:32 - 6. Insertar Grupos.
+2021-10-28 11:16:50 INFO  MainMenu:33 - 7. Cerrar la aplicación.
+2021-10-28 11:16:55 INFO  GroupScannerReader:18 - Introduce 'course' del titleGroup
+2021-10-28 11:16:59 INFO  GroupScannerReader:20 - Introduce 'letter' del titleGroup
+2021-10-28 11:17:02 INFO  GroupScannerReader:22 - Introduce 'titleId' del titleGroup
+2021-10-28 11:20:05 INFO  MainMenu:26 - Bienvenido. Escoge la opicion que quiere realizar.
+2021-10-28 11:20:05 INFO  MainMenu:27 - 1. Listar Titulos.
+2021-10-28 11:20:05 INFO  MainMenu:28 - 2. Listar Alumnos.
+2021-10-28 11:20:05 INFO  MainMenu:29 - 3. Listar Grupos.
+2021-10-28 11:20:05 INFO  MainMenu:30 - 4. Insertar Titulos.
+2021-10-28 11:20:05 INFO  MainMenu:31 - 5. Insertar Alumnos.
+2021-10-28 11:20:05 INFO  MainMenu:32 - 6. Insertar Grupos.
+2021-10-28 11:20:05 INFO  MainMenu:33 - 7. Cerrar la aplicación.
+2021-10-28 11:20:08 INFO  GroupScannerReader:18 - Introduce 'course' del titleGroup
+2021-10-28 11:20:11 INFO  GroupScannerReader:20 - Introduce 'letter' del titleGroup
+2021-10-28 11:20:13 INFO  GroupScannerReader:22 - Introduce 'titleId' del titleGroup
+2021-10-28 11:20:20 INFO  GroupScannerReader:24 - Introduce 'year' del titleGroup
+2021-10-28 11:21:20 INFO  MainMenu:26 - Bienvenido. Escoge la opicion que quiere realizar.
+2021-10-28 11:21:20 INFO  MainMenu:27 - 1. Listar Titulos.
+2021-10-28 11:21:20 INFO  MainMenu:28 - 2. Listar Alumnos.
+2021-10-28 11:21:20 INFO  MainMenu:29 - 3. Listar Grupos.
+2021-10-28 11:21:20 INFO  MainMenu:30 - 4. Insertar Titulos.
+2021-10-28 11:21:20 INFO  MainMenu:31 - 5. Insertar Alumnos.
+2021-10-28 11:21:20 INFO  MainMenu:32 - 6. Insertar Grupos.
+2021-10-28 11:21:20 INFO  MainMenu:33 - 7. Cerrar la aplicación.
+2021-10-28 11:21:29 INFO  GroupScannerReader:18 - Introduce 'course' del titleGroup
+2021-10-28 11:21:35 INFO  GroupScannerReader:20 - Introduce 'letter' del titleGroup
+2021-10-28 11:21:36 INFO  GroupScannerReader:22 - Introduce 'titleId' del titleGroup
+2021-10-28 11:21:39 INFO  GroupScannerReader:24 - Introduce 'year' del titleGroup
+2021-10-28 11:26:16 INFO  MainMenu:26 - Bienvenido. Escoge la opicion que quiere realizar.
+2021-10-28 11:26:16 INFO  MainMenu:27 - 1. Listar Titulos.
+2021-10-28 11:26:16 INFO  MainMenu:28 - 2. Listar Alumnos.
+2021-10-28 11:26:16 INFO  MainMenu:29 - 3. Listar Grupos.
+2021-10-28 11:26:16 INFO  MainMenu:30 - 4. Insertar Titulos.
+2021-10-28 11:26:16 INFO  MainMenu:31 - 5. Insertar Alumnos.
+2021-10-28 11:26:16 INFO  MainMenu:32 - 6. Insertar Grupos.
+2021-10-28 11:26:16 INFO  MainMenu:33 - 7. Cerrar la aplicación.
+2021-10-28 11:26:20 INFO  GroupScannerReader:18 - Introduce 'course' del titleGroup
+2021-10-28 11:26:22 INFO  GroupScannerReader:20 - Introduce 'letter' del titleGroup
+2021-10-28 11:26:34 INFO  GroupScannerReader:22 - Introduce 'title' del titleGroup
+2021-10-28 11:26:37 INFO  GroupScannerReader:24 - Introduce 'year' del titleGroup
+2021-10-28 11:26:40 INFO  MainMenu:26 - Bienvenido. Escoge la opicion que quiere realizar.
+2021-10-28 11:26:40 INFO  MainMenu:27 - 1. Listar Titulos.
+2021-10-28 11:26:40 INFO  MainMenu:28 - 2. Listar Alumnos.
+2021-10-28 11:26:40 INFO  MainMenu:29 - 3. Listar Grupos.
+2021-10-28 11:26:40 INFO  MainMenu:30 - 4. Insertar Titulos.
+2021-10-28 11:26:40 INFO  MainMenu:31 - 5. Insertar Alumnos.
+2021-10-28 11:26:40 INFO  MainMenu:32 - 6. Insertar Grupos.
+2021-10-28 11:26:40 INFO  MainMenu:33 - 7. Cerrar la aplicación.
+2021-10-28 11:26:44 INFO  GroupProgram:29 - Group{id=1, course='dam+', letter='lg', title=dam2, year=2020}
+2021-10-28 11:26:44 INFO  MainMenu:26 - Bienvenido. Escoge la opicion que quiere realizar.
+2021-10-28 11:26:44 INFO  MainMenu:27 - 1. Listar Titulos.
+2021-10-28 11:26:44 INFO  MainMenu:28 - 2. Listar Alumnos.
+2021-10-28 11:26:44 INFO  MainMenu:29 - 3. Listar Grupos.
+2021-10-28 11:26:44 INFO  MainMenu:30 - 4. Insertar Titulos.
+2021-10-28 11:26:44 INFO  MainMenu:31 - 5. Insertar Alumnos.
+2021-10-28 11:26:44 INFO  MainMenu:32 - 6. Insertar Grupos.
+2021-10-28 11:26:44 INFO  MainMenu:33 - 7. Cerrar la aplicación.
+2021-10-28 12:37:25 INFO  MainMenu:29 - Bienvenido. Escoge la opicion que quiere realizar.
+2021-10-28 12:37:25 INFO  MainMenu:30 - 1. Listar Titulos.
+2021-10-28 12:37:25 INFO  MainMenu:31 - 2. Listar Alumnos.
+2021-10-28 12:37:25 INFO  MainMenu:32 - 3. Listar Grupos.
+2021-10-28 12:37:25 INFO  MainMenu:33 - 4. Insertar Titulos.
+2021-10-28 12:37:25 INFO  MainMenu:34 - 5. Insertar Alumnos.
+2021-10-28 12:37:25 INFO  MainMenu:35 - 6. Insertar Grupos.
+2021-10-28 12:37:25 INFO  MainMenu:36 - 7. Listar familias en Instituto
+2021-10-28 12:37:25 INFO  MainMenu:37 - 8. Listar Titulos segun familia
+2021-10-28 12:37:25 INFO  MainMenu:38 - 9. Cerrar aplicacion
+2021-10-28 12:37:29 INFO  TitleProgram:39 - informatica
+2021-10-28 12:37:29 INFO  MainMenu:29 - Bienvenido. Escoge la opicion que quiere realizar.
+2021-10-28 12:37:29 INFO  MainMenu:30 - 1. Listar Titulos.
+2021-10-28 12:37:29 INFO  MainMenu:31 - 2. Listar Alumnos.
+2021-10-28 12:37:29 INFO  MainMenu:32 - 3. Listar Grupos.
+2021-10-28 12:37:29 INFO  MainMenu:33 - 4. Insertar Titulos.
+2021-10-28 12:37:29 INFO  MainMenu:34 - 5. Insertar Alumnos.
+2021-10-28 12:37:29 INFO  MainMenu:35 - 6. Insertar Grupos.
+2021-10-28 12:37:29 INFO  MainMenu:36 - 7. Listar familias en Instituto
+2021-10-28 12:37:29 INFO  MainMenu:37 - 8. Listar Titulos segun familia
+2021-10-28 12:37:29 INFO  MainMenu:38 - 9. Cerrar aplicacion
+2021-10-28 12:37:59 INFO  TitleProgram:46 - Title{id=1, name='dam', level='gs', family='informatica', description='djkdjkn'}
+2021-10-28 12:37:59 INFO  MainMenu:29 - Bienvenido. Escoge la opicion que quiere realizar.
+2021-10-28 12:37:59 INFO  MainMenu:30 - 1. Listar Titulos.
+2021-10-28 12:37:59 INFO  MainMenu:31 - 2. Listar Alumnos.
+2021-10-28 12:37:59 INFO  MainMenu:32 - 3. Listar Grupos.
+2021-10-28 12:37:59 INFO  MainMenu:33 - 4. Insertar Titulos.
+2021-10-28 12:37:59 INFO  MainMenu:34 - 5. Insertar Alumnos.
+2021-10-28 12:37:59 INFO  MainMenu:35 - 6. Insertar Grupos.
+2021-10-28 12:37:59 INFO  MainMenu:36 - 7. Listar familias en Instituto
+2021-10-28 12:37:59 INFO  MainMenu:37 - 8. Listar Titulos segun familia
+2021-10-28 12:37:59 INFO  MainMenu:38 - 9. Cerrar aplicacion
+2021-10-28 12:38:42 INFO  MainMenu:29 - Bienvenido. Escoge la opicion que quiere realizar.
+2021-10-28 12:38:42 INFO  MainMenu:30 - 1. Listar Titulos.
+2021-10-28 12:38:42 INFO  MainMenu:31 - 2. Listar Alumnos.
+2021-10-28 12:38:42 INFO  MainMenu:32 - 3. Listar Grupos.
+2021-10-28 12:38:42 INFO  MainMenu:33 - 4. Insertar Titulos.
+2021-10-28 12:38:42 INFO  MainMenu:34 - 5. Insertar Alumnos.
+2021-10-28 12:38:42 INFO  MainMenu:35 - 6. Insertar Grupos.
+2021-10-28 12:38:42 INFO  MainMenu:36 - 7. Listar familias en Instituto
+2021-10-28 12:38:42 INFO  MainMenu:37 - 8. Listar Titulos segun familia
+2021-10-28 12:38:42 INFO  MainMenu:38 - 9. Cerrar aplicacion
+2021-10-28 12:38:54 INFO  MainMenu:66 - ¿Que familia quieres filtrar los titulos
+2021-11-08 13:45:54 INFO  DefaultTestContextBootstrapper:245 - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener]
+2021-11-08 13:45:54 INFO  DefaultTestContextBootstrapper:174 - Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@2abf4075, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@770d3326, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@4cc8eb05, org.springframework.test.context.support.DirtiesContextTestExecutionListener@51f116b8, org.springframework.test.context.transaction.TransactionalTestExecutionListener@19d481b, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@1f97cf0d, org.springframework.test.context.event.EventPublishingTestExecutionListener@140c9f39]
+2021-11-08 13:46:51 INFO  DefaultTestContextBootstrapper:245 - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener]
+2021-11-08 13:46:51 INFO  DefaultTestContextBootstrapper:174 - Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@2abf4075, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@770d3326, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@4cc8eb05, org.springframework.test.context.support.DirtiesContextTestExecutionListener@51f116b8, org.springframework.test.context.transaction.TransactionalTestExecutionListener@19d481b, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@1f97cf0d, org.springframework.test.context.event.EventPublishingTestExecutionListener@140c9f39]
+2021-11-08 13:48:06 INFO  DefaultTestContextBootstrapper:245 - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener]
+2021-11-08 13:48:06 INFO  DefaultTestContextBootstrapper:174 - Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@59af0466, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@3e6ef8ad, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@346d61be, org.springframework.test.context.support.DirtiesContextTestExecutionListener@55536d9e, org.springframework.test.context.transaction.TransactionalTestExecutionListener@747edf66, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@3d1cfad4, org.springframework.test.context.event.EventPublishingTestExecutionListener@62230c58]
+2021-11-08 13:48:45 INFO  DefaultTestContextBootstrapper:245 - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener]
+2021-11-08 13:48:45 INFO  DefaultTestContextBootstrapper:174 - Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@59af0466, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@3e6ef8ad, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@346d61be, org.springframework.test.context.support.DirtiesContextTestExecutionListener@55536d9e, org.springframework.test.context.transaction.TransactionalTestExecutionListener@747edf66, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@3d1cfad4, org.springframework.test.context.event.EventPublishingTestExecutionListener@62230c58]
+2021-11-08 13:49:52 INFO  DefaultTestContextBootstrapper:245 - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener]
+2021-11-08 13:49:52 INFO  DefaultTestContextBootstrapper:174 - Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@59af0466, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@3e6ef8ad, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@346d61be, org.springframework.test.context.support.DirtiesContextTestExecutionListener@55536d9e, org.springframework.test.context.transaction.TransactionalTestExecutionListener@747edf66, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@3d1cfad4, org.springframework.test.context.event.EventPublishingTestExecutionListener@62230c58]
+2021-11-08 13:50:52 INFO  DefaultTestContextBootstrapper:245 - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener]
+2021-11-08 13:50:52 INFO  DefaultTestContextBootstrapper:174 - Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@3972a855, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@62e7f11d, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@503d687a, org.springframework.test.context.support.DirtiesContextTestExecutionListener@6a370f4, org.springframework.test.context.transaction.TransactionalTestExecutionListener@2abf4075, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@770d3326, org.springframework.test.context.event.EventPublishingTestExecutionListener@4cc8eb05]
+2021-11-08 13:51:20 INFO  DefaultTestContextBootstrapper:245 - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener]
+2021-11-08 13:51:20 INFO  DefaultTestContextBootstrapper:174 - Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@770d3326, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@4cc8eb05, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@51f116b8, org.springframework.test.context.support.DirtiesContextTestExecutionListener@19d481b, org.springframework.test.context.transaction.TransactionalTestExecutionListener@1f97cf0d, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@140c9f39, org.springframework.test.context.event.EventPublishingTestExecutionListener@4d910fd6]
+2021-11-08 13:51:31 INFO  DefaultTestContextBootstrapper:245 - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener]
+2021-11-08 13:51:31 INFO  DefaultTestContextBootstrapper:174 - Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@770d3326, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@4cc8eb05, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@51f116b8, org.springframework.test.context.support.DirtiesContextTestExecutionListener@19d481b, org.springframework.test.context.transaction.TransactionalTestExecutionListener@1f97cf0d, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@140c9f39, org.springframework.test.context.event.EventPublishingTestExecutionListener@4d910fd6]
+2021-11-08 14:12:57 INFO  MainMenu:29 - Bienvenido. Escoge la opicion que quiere realizar.
+2021-11-08 14:12:57 INFO  MainMenu:30 - 1. Listar Titulos.
+2021-11-08 14:12:57 INFO  MainMenu:31 - 2. Listar Alumnos.
+2021-11-08 14:12:57 INFO  MainMenu:32 - 3. Listar Grupos.
+2021-11-08 14:12:57 INFO  MainMenu:33 - 4. Insertar Titulos.
+2021-11-08 14:12:57 INFO  MainMenu:34 - 5. Insertar Alumnos.
+2021-11-08 14:12:57 INFO  MainMenu:35 - 6. Insertar Grupos.
+2021-11-08 14:12:57 INFO  MainMenu:36 - 7. Listar familias en Instituto
+2021-11-08 14:12:57 INFO  MainMenu:37 - 8. Listar Titulos segun familia
+2021-11-08 14:12:57 INFO  MainMenu:38 - 9. Cerrar aplicacion

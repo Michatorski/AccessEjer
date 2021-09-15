@@ -1,0 +1,149 @@
+2021-11-01 02:37:55 INFO  MainMenu:27 - Bienvenido. Escoge la opicion que quiere realizar.
+2021-11-01 02:37:55 INFO  MainMenu:28 - 1. Listar Departamentos.
+2021-11-01 02:37:55 INFO  MainMenu:29 - 2. Listar Empleados.
+2021-11-01 02:37:55 INFO  MainMenu:30 - 3. Insertar Departamentos.
+2021-11-01 02:37:55 INFO  MainMenu:31 - 4. Cerrar aplicacion.
+2021-11-01 02:38:50 INFO  MainMenu:27 - Bienvenido. Escoge la opicion que quiere realizar.
+2021-11-01 02:38:50 INFO  MainMenu:28 - 1. Listar Departamentos.
+2021-11-01 02:38:50 INFO  MainMenu:29 - 2. Listar Empleados.
+2021-11-01 02:38:50 INFO  MainMenu:30 - 3. Insertar Departamentos.
+2021-11-01 02:38:50 INFO  MainMenu:31 - 4. Cerrar aplicacion.
+2021-11-01 02:39:22 INFO  MainMenu:27 - Bienvenido. Escoge la opicion que quiere realizar.
+2021-11-01 02:39:22 INFO  MainMenu:28 - 1. Listar Departamentos.
+2021-11-01 02:39:22 INFO  MainMenu:29 - 2. Listar Empleados.
+2021-11-01 02:39:22 INFO  MainMenu:30 - 3. Insertar Departamentos.
+2021-11-01 02:39:22 INFO  MainMenu:31 - 4. Cerrar aplicacion.
+2021-11-01 02:39:25 INFO  DepartamentoReader:19 - Introduce el 'name' del Deparment
+2021-11-01 02:39:36 INFO  DepartamentoReader:22 - Introduce el 'description' del Deparment
+2021-11-01 02:41:02 INFO  MainMenu:27 - Bienvenido. Escoge la opicion que quiere realizar.
+2021-11-01 02:41:02 INFO  MainMenu:28 - 1. Listar Departamentos.
+2021-11-01 02:41:02 INFO  MainMenu:29 - 2. Listar Empleados.
+2021-11-01 02:41:02 INFO  MainMenu:30 - 3. Insertar Departamentos.
+2021-11-01 02:41:02 INFO  MainMenu:31 - 4. Cerrar aplicacion.
+2021-11-01 02:41:19 INFO  DepartmentProgram:32 - Departamento{name='Marketing', description='Labores de publicidad y gestión de clientes'}
+2021-11-01 02:41:19 INFO  MainMenu:27 - Bienvenido. Escoge la opicion que quiere realizar.
+2021-11-01 02:41:19 INFO  MainMenu:28 - 1. Listar Departamentos.
+2021-11-01 02:41:19 INFO  MainMenu:29 - 2. Listar Empleados.
+2021-11-01 02:41:19 INFO  MainMenu:30 - 3. Insertar Departamentos.
+2021-11-01 02:41:19 INFO  MainMenu:31 - 4. Cerrar aplicacion.
+2021-11-01 02:41:29 INFO  DepartamentoReader:19 - Introduce el 'name' del Deparment
+2021-11-01 02:41:33 INFO  DepartamentoReader:22 - Introduce el 'description' del Deparment
+2021-11-01 02:41:44 INFO  MainMenu:27 - Bienvenido. Escoge la opicion que quiere realizar.
+2021-11-01 02:41:44 INFO  MainMenu:28 - 1. Listar Departamentos.
+2021-11-01 02:41:44 INFO  MainMenu:29 - 2. Listar Empleados.
+2021-11-01 02:41:44 INFO  MainMenu:30 - 3. Insertar Departamentos.
+2021-11-01 02:41:44 INFO  MainMenu:31 - 4. Cerrar aplicacion.
+2021-11-01 02:50:35 INFO  MainMenu:27 - Bienvenido. Escoge la opicion que quiere realizar.
+2021-11-01 02:50:35 INFO  MainMenu:28 - 1. Listar Departamentos.
+2021-11-01 02:50:35 INFO  MainMenu:29 - 2. Listar Empleados.
+2021-11-01 02:50:35 INFO  MainMenu:30 - 3. Insertar Departamentos.
+2021-11-01 02:50:35 INFO  MainMenu:31 - 4. Cerrar aplicacion.
+2021-11-01 02:56:09 INFO  MainMenu:27 - Bienvenido. Escoge la opicion que quiere realizar.
+2021-11-01 02:56:09 INFO  MainMenu:28 - 1. Listar Departamentos.
+2021-11-01 02:56:09 INFO  MainMenu:29 - 2. Listar Empleados.
+2021-11-01 02:56:09 INFO  MainMenu:30 - 3. Insertar Departamentos.
+2021-11-01 02:56:09 INFO  MainMenu:31 - 4. Cerrar aplicacion.
+2021-11-01 02:56:21 INFO  MainMenu:27 - Bienvenido. Escoge la opicion que quiere realizar.
+2021-11-01 02:56:21 INFO  MainMenu:28 - 1. Listar Departamentos.
+2021-11-01 02:56:21 INFO  MainMenu:29 - 2. Listar Empleados.
+2021-11-01 02:56:21 INFO  MainMenu:30 - 3. Insertar Departamentos.
+2021-11-01 02:56:21 INFO  MainMenu:31 - 4. Cerrar aplicacion.
+2021-11-01 02:56:35 INFO  DepartmentProgram:32 - Departamento{name='Comida', description='Donde dan la comida'}
+2021-11-01 02:56:35 INFO  DepartmentProgram:32 - Departamento{name='Marketing', description='Labores de publicidad y gestión de clientes'}
+2021-11-01 02:56:35 INFO  MainMenu:27 - Bienvenido. Escoge la opicion que quiere realizar.
+2021-11-01 02:56:35 INFO  MainMenu:28 - 1. Listar Departamentos.
+2021-11-01 02:56:35 INFO  MainMenu:29 - 2. Listar Empleados.
+2021-11-01 02:56:35 INFO  MainMenu:30 - 3. Insertar Departamentos.
+2021-11-01 02:56:35 INFO  MainMenu:31 - 4. Cerrar aplicacion.
+2021-11-01 12:12:04 INFO  MainMenu:27 - Bienvenido. Escoge la opicion que quiere realizar.
+2021-11-01 12:12:04 INFO  MainMenu:28 - 1. Listar Departamentos.
+2021-11-01 12:12:04 INFO  MainMenu:29 - 2. Listar Empleados.
+2021-11-01 12:12:04 INFO  MainMenu:30 - 3. Insertar Departamentos.
+2021-11-01 12:12:04 INFO  MainMenu:31 - 4. Cerrar aplicacion.
+2021-11-01 12:15:29 INFO  DepartmentProgram:32 - Departamento{name='Comida', description='Donde dan la comida'}
+2021-11-01 12:15:29 INFO  DepartmentProgram:32 - Departamento{name='Marketing', description='Labores de publicidad y gestión de clientes'}
+2021-11-01 12:15:29 INFO  MainMenu:27 - Bienvenido. Escoge la opicion que quiere realizar.
+2021-11-01 12:15:29 INFO  MainMenu:28 - 1. Listar Departamentos.
+2021-11-01 12:15:29 INFO  MainMenu:29 - 2. Listar Empleados.
+2021-11-01 12:15:29 INFO  MainMenu:30 - 3. Insertar Departamentos.
+2021-11-01 12:15:29 INFO  MainMenu:31 - 4. Cerrar aplicacion.
+2021-11-01 12:16:37 INFO  MainMenu:27 - Bienvenido. Escoge la opicion que quiere realizar.
+2021-11-01 12:16:37 INFO  MainMenu:28 - 1. Listar Departamentos.
+2021-11-01 12:16:38 INFO  MainMenu:29 - 2. Listar Empleados.
+2021-11-01 12:16:39 INFO  MainMenu:30 - 3. Insertar Departamentos.
+2021-11-01 12:16:41 INFO  MainMenu:31 - 4. Cerrar aplicacion.
+2021-11-01 12:17:26 INFO  DepartmentProgram:32 - Departamento{name='Comida', description='Donde dan la comida'}
+2021-11-01 12:17:26 INFO  DepartmentProgram:32 - Departamento{name='Marketing', description='Labores de publicidad y gestión de clientes'}
+2021-11-01 12:17:46 INFO  MainMenu:27 - Bienvenido. Escoge la opicion que quiere realizar.
+2021-11-01 12:17:49 INFO  MainMenu:28 - 1. Listar Departamentos.
+2021-11-01 12:17:50 INFO  MainMenu:29 - 2. Listar Empleados.
+2021-11-01 12:17:50 INFO  MainMenu:30 - 3. Insertar Departamentos.
+2021-11-01 12:18:08 INFO  MainMenu:31 - 4. Cerrar aplicacion.
+2021-11-01 12:18:17 INFO  MainMenu:27 - Bienvenido. Escoge la opicion que quiere realizar.
+2021-11-01 12:18:17 INFO  MainMenu:28 - 1. Listar Departamentos.
+2021-11-01 12:18:17 INFO  MainMenu:29 - 2. Listar Empleados.
+2021-11-01 12:18:17 INFO  MainMenu:30 - 3. Insertar Departamentos.
+2021-11-01 12:18:17 INFO  MainMenu:31 - 4. Cerrar aplicacion.
+2021-11-01 12:18:32 INFO  DepartmentProgram:32 - Departamento{name='Comida', description='Donde dan la comida'}
+2021-11-01 12:18:32 INFO  DepartmentProgram:32 - Departamento{name='Marketing', description='Labores de publicidad y gestión de clientes'}
+2021-11-01 12:18:32 INFO  MainMenu:27 - Bienvenido. Escoge la opicion que quiere realizar.
+2021-11-01 12:18:32 INFO  MainMenu:28 - 1. Listar Departamentos.
+2021-11-01 12:18:32 INFO  MainMenu:29 - 2. Listar Empleados.
+2021-11-01 12:18:32 INFO  MainMenu:30 - 3. Insertar Departamentos.
+2021-11-01 12:18:32 INFO  MainMenu:31 - 4. Cerrar aplicacion.
+2021-11-01 13:57:25 INFO  MainMenu:27 - Bienvenido. Escoge la opicion que quiere realizar.
+2021-11-01 13:57:25 INFO  MainMenu:28 - 1. Listar Departamentos.
+2021-11-01 13:57:25 INFO  MainMenu:29 - 2. Listar Empleados.
+2021-11-01 13:57:25 INFO  MainMenu:30 - 3. Insertar Departamentos.
+2021-11-01 13:57:25 INFO  MainMenu:31 - 4. Cerrar aplicacion.
+2021-11-01 13:57:39 INFO  DepartmentProgram:32 - Departamento{name='Comida', description='Donde dan la comida'}
+2021-11-01 13:57:39 INFO  DepartmentProgram:32 - Departamento{name='Marketing', description='Labores de publicidad y gestión de clientes'}
+2021-11-01 13:57:39 INFO  MainMenu:27 - Bienvenido. Escoge la opicion que quiere realizar.
+2021-11-01 13:57:39 INFO  MainMenu:28 - 1. Listar Departamentos.
+2021-11-01 13:57:39 INFO  MainMenu:29 - 2. Listar Empleados.
+2021-11-01 13:57:39 INFO  MainMenu:30 - 3. Insertar Departamentos.
+2021-11-01 13:57:39 INFO  MainMenu:31 - 4. Cerrar aplicacion.
+2021-11-01 13:57:47 INFO  MainMenu:41 - ¿Que departamento estas buscando?
+2021-11-01 16:24:47 INFO  MainMenu:27 - Bienvenido. Escoge la opicion que quiere realizar.
+2021-11-01 16:24:47 INFO  MainMenu:28 - 1. Listar Departamentos.
+2021-11-01 16:24:47 INFO  MainMenu:29 - 2. Listar Empleados.
+2021-11-01 16:24:47 INFO  MainMenu:30 - 3. Insertar Departamentos.
+2021-11-01 16:24:47 INFO  MainMenu:31 - 4. Cerrar aplicacion.
+2021-11-01 16:25:07 INFO  MainMenu:41 - ¿Que departamento estas buscando?
+2021-11-01 16:55:29 INFO  MainMenu:27 - Bienvenido. Escoge la opicion que quiere realizar.
+2021-11-01 16:55:29 INFO  MainMenu:28 - 1. Listar Departamentos.
+2021-11-01 16:55:29 INFO  MainMenu:29 - 2. Listar Empleados.
+2021-11-01 16:55:29 INFO  MainMenu:30 - 3. Insertar Departamentos.
+2021-11-01 16:55:29 INFO  MainMenu:31 - 4. Cerrar aplicacion.
+2021-11-01 16:56:30 INFO  MainMenu:41 - ¿Que departamento estas buscando?
+2021-11-01 16:57:04 INFO  Employee:23 - iesfm.org.Employee{nif='00000000X', name='Pepa', surname='Pig', role='Jefe de departamento', departmentName='Marketing'}
+2021-11-01 16:57:04 INFO  Employee:23 - iesfm.org.Employee{nif='00000001X', name='George', surname='Pig', role='Publicista', departmentName='Marketing'}
+2021-11-01 16:57:04 INFO  MainMenu:27 - Bienvenido. Escoge la opicion que quiere realizar.
+2021-11-01 16:57:04 INFO  MainMenu:28 - 1. Listar Departamentos.
+2021-11-01 16:57:04 INFO  MainMenu:29 - 2. Listar Empleados.
+2021-11-01 16:57:04 INFO  MainMenu:30 - 3. Insertar Departamentos.
+2021-11-01 16:57:04 INFO  MainMenu:31 - 4. Cerrar aplicacion.
+2021-11-01 16:59:10 INFO  MainMenu:27 - Bienvenido. Escoge la opicion que quiere realizar.
+2021-11-01 16:59:10 INFO  MainMenu:28 - 1. Listar Departamentos.
+2021-11-01 16:59:10 INFO  MainMenu:29 - 2. Listar Empleados.
+2021-11-01 16:59:10 INFO  MainMenu:30 - 3. Insertar Departamentos.
+2021-11-01 16:59:10 INFO  MainMenu:31 - 4. Cerrar aplicacion.
+2021-11-01 16:59:29 INFO  MainMenu:27 - Bienvenido. Escoge la opicion que quiere realizar.
+2021-11-01 16:59:29 INFO  MainMenu:28 - 1. Listar Departamentos.
+2021-11-01 16:59:29 INFO  MainMenu:29 - 2. Listar Empleados.
+2021-11-01 16:59:29 INFO  MainMenu:30 - 3. Insertar Departamentos.
+2021-11-01 16:59:29 INFO  MainMenu:31 - 4. Cerrar aplicacion.
+2021-11-01 17:02:48 INFO  MainMenu:41 - ¿Que departamento estas buscando?
+2021-11-01 17:03:05 INFO  MainMenu:27 - Bienvenido. Escoge la opicion que quiere realizar.
+2021-11-01 17:03:05 INFO  MainMenu:28 - 1. Listar Departamentos.
+2021-11-01 17:03:05 INFO  MainMenu:29 - 2. Listar Empleados.
+2021-11-01 17:03:05 INFO  MainMenu:30 - 3. Insertar Departamentos.
+2021-11-01 17:03:05 INFO  MainMenu:31 - 4. Cerrar aplicacion.
+2021-11-01 17:04:24 INFO  MainMenu:41 - ¿Que departamento estas buscando?
+2021-11-01 17:04:39 INFO  Employee:23 - iesfm.org.Employee{nif='00000000X', name='Pepa', surname='Pig', role='Jefe de departamento', departmentName='Marketing'}
+2021-11-01 17:04:39 INFO  Employee:23 - iesfm.org.Employee{nif='00000001X', name='George', surname='Pig', role='Publicista', departmentName='Marketing'}
+2021-11-01 17:04:39 INFO  MainMenu:27 - Bienvenido. Escoge la opicion que quiere realizar.
+2021-11-01 17:04:39 INFO  MainMenu:28 - 1. Listar Departamentos.
+2021-11-01 17:04:39 INFO  MainMenu:29 - 2. Listar Empleados.
+2021-11-01 17:04:39 INFO  MainMenu:30 - 3. Insertar Departamentos.
+2021-11-01 17:04:39 INFO  MainMenu:31 - 4. Cerrar aplicacion.

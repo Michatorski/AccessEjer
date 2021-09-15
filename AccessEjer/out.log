@@ -1,0 +1,233 @@
+2021-09-16 12:01:17 INFO  Ejer4:34 - Creando directorio d1...
+2021-09-16 12:01:17 INFO  Ejer4:36 - Creando fichero f11.txt...
+2021-09-16 12:01:17 INFO  Ejer4:39 - Creando directorio d2...
+2021-09-16 12:01:17 INFO  Ejer4:41 - Creando fichero f21.txt...
+2021-09-16 12:02:18 INFO  Ejer4:34 - Creando directorio d1...
+2021-09-16 12:02:18 INFO  Ejer4:36 - Creando fichero f11.txt...
+2021-09-16 12:02:18 INFO  Ejer4:39 - Creando directorio d2...
+2021-09-16 12:02:18 INFO  Ejer4:41 - Creando fichero f21.txt...
+2021-09-16 12:44:58 INFO  Ejer5:15 - Moviendo el archivo /tmp/d1/f11.txt a /tmp/d1/f12.txt
+2021-09-16 12:44:58 INFO  Ejer5:15 - Moviendo el archivo /tmp/d2/f11.txt a /tmp/d1/f21.txt
+2021-09-16 12:44:58 INFO  Ejer5:22 - Eliminando directorio /tmp/d2
+2021-09-17 23:20:54 INFO  Ejer6:14 - Nombre: .android
+2021-09-17 23:20:54 INFO  Ejer6:16 - Ruta Absoluta: C:\Users\OmegaKnight\Documents\GitHub\DAM2\AccesoDatos\AccessEjer\AccessEjer\ C:\Users\OmegaKnight\.android
+2021-09-17 23:20:54 INFO  Ejer6:18 - Tamaño: 0
+2021-09-17 23:20:54 INFO  Ejer6:26 - Ultima Modificacion: 0
+2021-09-17 23:26:43 INFO  Ejer6:14 - Nombre: .android
+2021-09-17 23:26:43 INFO  Ejer6:16 - Ruta Absoluta: C:\Users\OmegaKnight\Documents\GitHub\DAM2\AccesoDatos\AccessEjer\AccessEjer\ C:\Users\OmegaKnight\.android
+2021-09-17 23:26:43 INFO  Ejer6:18 - Tamaño: 0
+2021-09-17 23:26:43 INFO  Ejer6:21 - Es un archivo?false
+2021-09-17 23:26:43 INFO  Ejer6:22 - es un direcotry? false
+2021-09-17 23:26:43 INFO  Ejer6:24 - Ultima Modificacion: 0
+2021-09-17 23:30:04 INFO  Ejer6:14 - Nombre: .android
+2021-09-17 23:30:04 INFO  Ejer6:15 - Ruta Absoluta: C:\Users\OmegaKnight\Documents\GitHub\DAM2\AccesoDatos\AccessEjer\AccessEjer\ C:\Users\OmegaKnight\.android
+2021-09-17 23:30:04 INFO  Ejer6:16 - Tamaño: 0
+2021-09-17 23:30:04 INFO  Ejer6:17 - Es un archivo? false
+2021-09-17 23:30:04 INFO  Ejer6:18 - Es un direcotry? false
+2021-09-17 23:30:04 INFO  Ejer6:19 - Ultima Modificacion: 0
+2021-09-17 23:30:04 INFO  Ejer6:20 - Permiso para escribir: false
+2021-09-17 23:30:04 INFO  Ejer6:21 - Permiso para leer: false
+2021-09-17 23:30:04 INFO  Ejer6:22 - Permiso para ejecutar: false
+2021-09-17 23:45:26 INFO  Ejer6:14 - Nombre: IdeaProjects
+2021-09-17 23:45:26 INFO  Ejer6:15 - Ruta Absoluta: C:\Users\OmegaKnight\Documents\GitHub\DAM2\AccesoDatos\AccessEjer\AccessEjer\ C:\Users\OmegaKnight\IdeaProjects
+2021-09-17 23:45:26 INFO  Ejer6:16 - Tamaño: 0
+2021-09-17 23:45:26 INFO  Ejer6:17 - Es un archivo? false
+2021-09-17 23:45:26 INFO  Ejer6:18 - Es un direcotry? false
+2021-09-17 23:45:26 INFO  Ejer6:19 - Ultima Modificacion: 0
+2021-09-17 23:45:26 INFO  Ejer6:20 - Permiso para escribir: false
+2021-09-17 23:45:26 INFO  Ejer6:21 - Permiso para leer: false
+2021-09-17 23:45:26 INFO  Ejer6:22 - Permiso para ejecutar: false
+2021-09-17 23:50:39 INFO  Ejer6:14 - Nombre: 'The Lorax - Biggering (Original Demo).mp3'
+2021-09-17 23:50:39 INFO  Ejer6:15 - Ruta Absoluta: C:\Users\OmegaKnight\Documents\GitHub\DAM2\AccesoDatos\AccessEjer\AccessEjer\ C:\Users\OmegaKnight\Music\'The Lorax - Biggering (Original Demo).mp3'
+2021-09-17 23:50:39 INFO  Ejer6:16 - Tamaño: 0
+2021-09-17 23:50:39 INFO  Ejer6:17 - Es un archivo? false
+2021-09-17 23:50:39 INFO  Ejer6:18 - Es un direcotry? false
+2021-09-17 23:50:39 INFO  Ejer6:19 - Ultima Modificacion: 0
+2021-09-17 23:50:39 INFO  Ejer6:20 - Permiso para escribir: false
+2021-09-17 23:50:39 INFO  Ejer6:21 - Permiso para leer: false
+2021-09-17 23:50:39 INFO  Ejer6:22 - Permiso para ejecutar: false
+2021-09-18 00:01:20 INFO  Ejer6:14 - Nombre: VIKTOR
+2021-09-18 00:01:20 INFO  Ejer6:15 - Ruta Absoluta: C:\Users\OmegaKnight\Documents\GitHub\DAM2\AccesoDatos\AccessEjer\AccessEjer\ C:\Users\OmegaKnight\Documents\VIKTOR
+2021-09-18 00:01:20 INFO  Ejer6:16 - Tamaño: 0
+2021-09-18 00:01:20 INFO  Ejer6:17 - Es un archivo? false
+2021-09-18 00:01:20 INFO  Ejer6:18 - Es un direcotry? false
+2021-09-18 00:01:20 INFO  Ejer6:19 - Ultima Modificacion: 0
+2021-09-18 00:01:20 INFO  Ejer6:20 - Permiso para escribir: false
+2021-09-18 00:01:20 INFO  Ejer6:21 - Permiso para leer: false
+2021-09-18 00:01:20 INFO  Ejer6:22 - Permiso para ejecutar: false
+2021-09-18 00:02:03 INFO  Ejer6:14 - Nombre: FIVE.doc
+2021-09-18 00:02:03 INFO  Ejer6:15 - Ruta Absoluta: C:\Users\OmegaKnight\Documents\GitHub\DAM2\AccesoDatos\AccessEjer\AccessEjer\ C:\Users\OmegaKnight\Documents\VIKTOR\FIVE.doc
+2021-09-18 00:02:03 INFO  Ejer6:16 - Tamaño: 0
+2021-09-18 00:02:03 INFO  Ejer6:17 - Es un archivo? false
+2021-09-18 00:02:03 INFO  Ejer6:18 - Es un direcotry? false
+2021-09-18 00:02:03 INFO  Ejer6:19 - Ultima Modificacion: 0
+2021-09-18 00:02:03 INFO  Ejer6:20 - Permiso para escribir: false
+2021-09-18 00:02:03 INFO  Ejer6:21 - Permiso para leer: false
+2021-09-18 00:02:03 INFO  Ejer6:22 - Permiso para ejecutar: false
+2021-09-18 00:03:15 INFO  Ejer6:14 - Nombre: FIVE.doc
+2021-09-18 00:03:15 INFO  Ejer6:15 - Ruta Absoluta: C:\Users\OmegaKnight\Documents\VIKTOR\FIVE.doc
+2021-09-18 00:03:15 INFO  Ejer6:16 - Tamaño: 67072
+2021-09-18 00:03:15 INFO  Ejer6:17 - Es un archivo? true
+2021-09-18 00:03:15 INFO  Ejer6:18 - Es un direcotry? false
+2021-09-18 00:03:15 INFO  Ejer6:19 - Ultima Modificacion: 1616175931356
+2021-09-18 00:03:15 INFO  Ejer6:20 - Permiso para escribir: true
+2021-09-18 00:03:15 INFO  Ejer6:21 - Permiso para leer: true
+2021-09-18 00:03:15 INFO  Ejer6:22 - Permiso para ejecutar: true
+2021-09-18 00:03:34 INFO  Ejer6:14 - Nombre: IdeaProjects
+2021-09-18 00:03:34 INFO  Ejer6:15 - Ruta Absoluta: C:\Users\OmegaKnight\IdeaProjects
+2021-09-18 00:03:34 INFO  Ejer6:16 - Tamaño: 4096
+2021-09-18 00:03:34 INFO  Ejer6:17 - Es un archivo? false
+2021-09-18 00:03:34 INFO  Ejer6:18 - Es un direcotry? true
+2021-09-18 00:03:34 INFO  Ejer6:19 - Ultima Modificacion: 1612857314595
+2021-09-18 00:03:34 INFO  Ejer6:20 - Permiso para escribir: true
+2021-09-18 00:03:34 INFO  Ejer6:21 - Permiso para leer: true
+2021-09-18 00:03:34 INFO  Ejer6:22 - Permiso para ejecutar: true
+2021-09-20 12:52:35 INFO  Ejer6:14 - Nombre: f1
+2021-09-20 12:52:35 INFO  Ejer6:15 - Ruta Absoluta: /home/micho/GitHub/AccessEjer/AccessEjer/home/micho/tmp/f1
+2021-09-20 12:52:35 INFO  Ejer6:16 - Tamaño: 0
+2021-09-20 12:52:35 INFO  Ejer6:17 - Es un archivo? false
+2021-09-20 12:52:35 INFO  Ejer6:18 - Es un direcotry? false
+2021-09-20 12:52:35 INFO  Ejer6:19 - Ultima Modificacion: 0
+2021-09-20 12:52:35 INFO  Ejer6:20 - Permiso para escribir: false
+2021-09-20 12:52:35 INFO  Ejer6:21 - Permiso para leer: false
+2021-09-20 12:52:35 INFO  Ejer6:22 - Permiso para ejecutar: false
+2021-09-20 12:52:57 INFO  Ejer6:14 - Nombre: d1
+2021-09-20 12:52:57 INFO  Ejer6:15 - Ruta Absoluta: /home/micho/GitHub/AccessEjer/AccessEjer/home/micho/tmp/d1
+2021-09-20 12:52:57 INFO  Ejer6:16 - Tamaño: 0
+2021-09-20 12:52:57 INFO  Ejer6:17 - Es un archivo? false
+2021-09-20 12:52:57 INFO  Ejer6:18 - Es un direcotry? false
+2021-09-20 12:52:57 INFO  Ejer6:19 - Ultima Modificacion: 0
+2021-09-20 12:52:57 INFO  Ejer6:20 - Permiso para escribir: false
+2021-09-20 12:52:57 INFO  Ejer6:21 - Permiso para leer: false
+2021-09-20 12:52:57 INFO  Ejer6:22 - Permiso para ejecutar: false
+2021-09-20 12:53:08 INFO  Ejer4:34 - Creando directorio d1...
+2021-09-20 12:53:08 INFO  Ejer4:36 - Creando fichero f11.txt...
+2021-09-20 12:53:08 INFO  Ejer4:39 - Creando directorio d2...
+2021-09-20 12:53:08 INFO  Ejer4:41 - Creando fichero f21.txt...
+2021-09-20 12:53:27 INFO  Ejer6:14 - Nombre: d1
+2021-09-20 12:53:27 INFO  Ejer6:15 - Ruta Absoluta: /home/micho/GitHub/AccessEjer/AccessEjer/home/micho/tmp/d1
+2021-09-20 12:53:27 INFO  Ejer6:16 - Tamaño: 0
+2021-09-20 12:53:27 INFO  Ejer6:17 - Es un archivo? false
+2021-09-20 12:53:27 INFO  Ejer6:18 - Es un direcotry? false
+2021-09-20 12:53:27 INFO  Ejer6:19 - Ultima Modificacion: 0
+2021-09-20 12:53:27 INFO  Ejer6:20 - Permiso para escribir: false
+2021-09-20 12:53:27 INFO  Ejer6:21 - Permiso para leer: false
+2021-09-20 12:53:27 INFO  Ejer6:22 - Permiso para ejecutar: false
+2021-09-20 12:54:12 INFO  Ejer6:14 - Nombre: f11
+2021-09-20 12:54:12 INFO  Ejer6:15 - Ruta Absoluta: /home/micho/GitHub/AccessEjer/AccessEjer/home/micho/tmp/d1/f11
+2021-09-20 12:54:12 INFO  Ejer6:16 - Tamaño: 0
+2021-09-20 12:54:12 INFO  Ejer6:17 - Es un archivo? false
+2021-09-20 12:54:12 INFO  Ejer6:18 - Es un direcotry? false
+2021-09-20 12:54:12 INFO  Ejer6:19 - Ultima Modificacion: 0
+2021-09-20 12:54:12 INFO  Ejer6:20 - Permiso para escribir: false
+2021-09-20 12:54:12 INFO  Ejer6:21 - Permiso para leer: false
+2021-09-20 12:54:12 INFO  Ejer6:22 - Permiso para ejecutar: false
+2021-09-20 12:58:52 INFO  Ejer6:14 - Nombre: f11
+2021-09-20 12:58:52 INFO  Ejer6:15 - Ruta Absoluta: /home/micho/tmp/d1/f11
+2021-09-20 12:58:52 INFO  Ejer6:16 - Tamaño: 0
+2021-09-20 12:58:52 INFO  Ejer6:17 - Es un archivo? false
+2021-09-20 12:58:52 INFO  Ejer6:18 - Es un direcotry? false
+2021-09-20 12:58:52 INFO  Ejer6:19 - Ultima Modificacion: 0
+2021-09-20 12:58:52 INFO  Ejer6:20 - Permiso para escribir: false
+2021-09-20 12:58:52 INFO  Ejer6:21 - Permiso para leer: false
+2021-09-20 12:58:52 INFO  Ejer6:22 - Permiso para ejecutar: false
+2021-09-20 13:00:53 INFO  Ejer6:14 - Nombre: f11
+2021-09-20 13:00:53 INFO  Ejer6:15 - Ruta Absoluta: /tmp/d1/f11
+2021-09-20 13:00:53 INFO  Ejer6:16 - Tamaño: 0
+2021-09-20 13:00:53 INFO  Ejer6:17 - Es un archivo? false
+2021-09-20 13:00:53 INFO  Ejer6:18 - Es un direcotry? false
+2021-09-20 13:00:53 INFO  Ejer6:19 - Ultima Modificacion: 0
+2021-09-20 13:00:53 INFO  Ejer6:20 - Permiso para escribir: false
+2021-09-20 13:00:53 INFO  Ejer6:21 - Permiso para leer: false
+2021-09-20 13:00:53 INFO  Ejer6:22 - Permiso para ejecutar: false
+2021-09-20 13:01:11 INFO  Ejer6:14 - Nombre: f11.txt
+2021-09-20 13:01:11 INFO  Ejer6:15 - Ruta Absoluta: /tmp/d1/f11.txt
+2021-09-20 13:01:11 INFO  Ejer6:16 - Tamaño: 0
+2021-09-20 13:01:11 INFO  Ejer6:17 - Es un archivo? true
+2021-09-20 13:01:11 INFO  Ejer6:18 - Es un direcotry? false
+2021-09-20 13:01:11 INFO  Ejer6:19 - Ultima Modificacion: 1632135188195
+2021-09-20 13:01:11 INFO  Ejer6:20 - Permiso para escribir: true
+2021-09-20 13:01:11 INFO  Ejer6:21 - Permiso para leer: true
+2021-09-20 13:01:11 INFO  Ejer6:22 - Permiso para ejecutar: false
+2021-09-20 13:12:16 INFO  Ejer6:14 - Nombre: f11.txt
+2021-09-20 13:12:16 INFO  Ejer6:15 - Ruta Absoluta: /tmp/d1/f11.txt
+2021-09-20 13:12:16 INFO  Ejer6:16 - Tamaño: 0
+2021-09-20 13:12:16 INFO  Ejer6:17 - Es un archivo? true
+2021-09-20 13:12:16 INFO  Ejer6:18 - Es un direcotry? false
+2021-09-20 13:12:16 INFO  Ejer6:19 - Ultima Modificacion: 1632135188195
+2021-09-20 13:12:16 INFO  Ejer6:20 - Permiso para escribir: true
+2021-09-20 13:12:16 INFO  Ejer6:21 - Permiso para leer: true
+2021-09-20 13:12:16 INFO  Ejer6:22 - Permiso para ejecutar: false
+2021-09-20 13:15:07 INFO  Ejer6:14 - Nombre: f11.txt
+2021-09-20 13:15:07 INFO  Ejer6:15 - Ruta Absoluta: /tmp/d1/f11.txt
+2021-09-20 13:15:07 INFO  Ejer6:16 - Tamaño: 12
+2021-09-20 13:15:07 INFO  Ejer6:17 - Es un archivo? true
+2021-09-20 13:15:07 INFO  Ejer6:18 - Es un direcotry? false
+2021-09-20 13:15:07 INFO  Ejer6:19 - Ultima Modificacion: 1632136499160
+2021-09-20 13:15:07 INFO  Ejer6:20 - Permiso para escribir: true
+2021-09-20 13:15:07 INFO  Ejer6:21 - Permiso para leer: true
+2021-09-20 13:15:07 INFO  Ejer6:22 - Permiso para ejecutar: false
+2021-09-20 13:25:30 INFO  Ejer7:15 - Permiso para leer: true
+2021-09-20 13:25:30 INFO  Ejer7:17 - Permiso para ejecutar: false
+2021-09-20 13:25:30 INFO  Ejer7:22 - Cambiando perimiso de lectura.true
+2021-09-20 13:25:30 INFO  Ejer7:23 - Cambiando perimiso de ejecucion.true
+2021-09-20 13:26:03 INFO  Ejer7:15 - Permiso para leer: false
+2021-09-20 13:26:03 INFO  Ejer7:17 - Permiso para ejecutar: false
+2021-09-20 13:26:03 INFO  Ejer7:22 - Cambiando perimiso de lectura.true
+2021-09-20 13:26:03 INFO  Ejer7:23 - Cambiando perimiso de ejecucion.true
+2021-09-20 13:27:23 INFO  Ejer7:15 - Permiso para leer: true
+2021-09-20 13:27:23 INFO  Ejer7:17 - Permiso para ejecutar: true
+2021-09-20 13:27:23 INFO  Ejer7:22 - Cambiando perimiso de lectura. true
+2021-09-20 13:27:23 INFO  Ejer7:23 - Cambiando perimiso de ejecucion. true
+2021-09-20 13:28:09 INFO  Ejer7:15 - Permiso para leer: false
+2021-09-20 13:28:09 INFO  Ejer7:17 - Permiso para ejecutar: false
+2021-09-20 13:28:09 INFO  Ejer7:22 - Cambiando perimiso de lectura. true
+2021-09-20 13:28:09 INFO  Ejer7:23 - Cambiando perimiso de ejecucion. true
+2021-09-20 13:28:30 INFO  Ejer7:15 - Permiso para leer: false
+2021-09-20 13:28:30 INFO  Ejer7:17 - Permiso para ejecutar: false
+2021-09-20 13:28:30 INFO  Ejer7:22 - Cambiando perimiso de lectura. true
+2021-09-20 13:28:30 INFO  Ejer7:23 - Cambiando perimiso de ejecucion. true
+2021-09-20 13:28:46 INFO  Ejer7:15 - Permiso para leer: true
+2021-09-20 13:28:46 INFO  Ejer7:17 - Permiso para ejecutar: false
+2021-09-20 13:28:46 INFO  Ejer7:22 - Cambiando perimiso de lectura. true
+2021-09-20 13:28:46 INFO  Ejer7:23 - Cambiando perimiso de ejecucion. true
+2021-09-20 13:28:52 INFO  Ejer7:15 - Permiso para leer: false
+2021-09-20 13:28:52 INFO  Ejer7:17 - Permiso para ejecutar: false
+2021-09-20 13:28:52 INFO  Ejer7:22 - Cambiando perimiso de lectura. true
+2021-09-20 13:28:52 INFO  Ejer7:23 - Cambiando perimiso de ejecucion. true
+2021-09-20 13:29:15 INFO  Ejer7:15 - Permiso para leer: false
+2021-09-20 13:29:15 INFO  Ejer7:17 - Permiso para ejecutar: false
+2021-09-20 13:29:15 INFO  Ejer7:22 - Cambiando perimiso de lectura. true
+2021-09-20 13:29:15 INFO  Ejer7:23 - Cambiando perimiso de ejecucion. true
+2021-09-20 13:29:15 INFO  Ejer7:15 - Permiso para leer: false
+2021-09-20 13:29:15 INFO  Ejer7:17 - Permiso para ejecutar: false
+2021-09-20 13:29:25 INFO  Ejer7:15 - Permiso para leer: false
+2021-09-20 13:29:25 INFO  Ejer7:17 - Permiso para ejecutar: false
+2021-09-20 13:29:25 INFO  Ejer7:22 - Cambiando perimiso de lectura. true
+2021-09-20 13:29:25 INFO  Ejer7:23 - Cambiando perimiso de ejecucion. true
+2021-09-20 13:29:25 INFO  Ejer7:15 - Permiso para leer: true
+2021-09-20 13:29:25 INFO  Ejer7:17 - Permiso para ejecutar: false
+2021-09-20 13:29:38 INFO  Ejer7:15 - Permiso para leer: true
+2021-09-20 13:29:38 INFO  Ejer7:17 - Permiso para ejecutar: false
+2021-09-20 13:29:38 INFO  Ejer7:22 - Cambiando perimiso de lectura. true
+2021-09-20 13:29:38 INFO  Ejer7:23 - Cambiando perimiso de ejecucion. true
+2021-09-20 13:29:38 INFO  Ejer7:15 - Permiso para leer: false
+2021-09-20 13:29:38 INFO  Ejer7:17 - Permiso para ejecutar: false
+2021-09-20 13:30:54 INFO  Ejer7:15 - Permiso para leer: false
+2021-09-20 13:30:54 INFO  Ejer7:17 - Permiso para ejecutar: false
+2021-09-20 13:30:54 INFO  Ejer7:22 - Cambiando perimiso de lectura. true
+2021-09-20 13:30:54 INFO  Ejer7:23 - Cambiando perimiso de ejecucion. true
+2021-09-20 13:30:54 INFO  Ejer7:15 - Permiso para leer: true
+2021-09-20 13:30:54 INFO  Ejer7:17 - Permiso para ejecutar: true
+2021-09-20 13:31:14 INFO  Ejer7:15 - Permiso para leer: true
+2021-09-20 13:31:14 INFO  Ejer7:17 - Permiso para ejecutar: true
+2021-09-20 13:31:14 INFO  Ejer7:22 - Cambiando perimiso de lectura. true
+2021-09-20 13:31:14 INFO  Ejer7:23 - Cambiando perimiso de ejecucion. true
+2021-09-20 13:31:14 INFO  Ejer7:15 - Permiso para leer: false
+2021-09-20 13:31:14 INFO  Ejer7:17 - Permiso para ejecutar: false
+2021-09-20 13:43:41 INFO  Ejer9:16 - Nombre:d1
+2021-09-20 13:44:03 INFO  Ejer9:16 - Nombre: d1
+2021-09-20 13:44:40 INFO  Ejer9:18 - Nombre: f11.txt
+2021-09-20 13:44:40 INFO  Ejer9:19 - Tamaño: 12
+2021-09-20 13:46:40 INFO  Ejer9:18 - Nombre: f11.txt
+2021-09-20 13:46:40 INFO  Ejer9:19 - Tamaño: 12
