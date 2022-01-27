@@ -1,4 +1,4 @@
-package org.iesfm.tiendaMondo;
+package org.iesfm.tiendamongo;
 
 import com.fasterxml.jackson.annotation.JsonCreator;
 import com.fasterxml.jackson.annotation.JsonProperty;

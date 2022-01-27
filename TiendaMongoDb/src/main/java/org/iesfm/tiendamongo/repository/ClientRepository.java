@@ -1,10 +1,8 @@
-package org.iesfm.tiendaMondo.repository;
+package org.iesfm.tiendamongo.repository;
 
-import org.iesfm.tiendaMondo.Client;
+import org.iesfm.tiendamongo.Client;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.stereotype.Component;
-
-import java.util.List;
 
 @Component
 public interface ClientRepository extends MongoRepository<Client, String> {

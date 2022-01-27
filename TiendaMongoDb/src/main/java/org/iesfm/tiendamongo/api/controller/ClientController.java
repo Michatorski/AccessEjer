@@ -1,7 +1,7 @@
-package org.iesfm.tiendaMondo.api.controller;
+package org.iesfm.tiendamongo.api.controller;
 
-import org.iesfm.tiendaMondo.Client;
-import org.iesfm.tiendaMondo.repository.ClientRepository;
+import org.iesfm.tiendamongo.Client;
+import org.iesfm.tiendamongo.repository.ClientRepository;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;

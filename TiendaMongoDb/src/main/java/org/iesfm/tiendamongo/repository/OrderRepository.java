@@ -1,6 +1,6 @@
-package org.iesfm.tiendaMondo.repository;
+package org.iesfm.tiendamongo.repository;
 
-import org.iesfm.tiendaMondo.Order;
+import org.iesfm.tiendamongo.Order;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.stereotype.Component;
 

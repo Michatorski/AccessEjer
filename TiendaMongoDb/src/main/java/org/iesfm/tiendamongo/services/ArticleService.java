@@ -1,7 +1,7 @@
-package org.iesfm.tiendaMondo.services;
+package org.iesfm.tiendamongo.services;
 
-import org.iesfm.tiendaMondo.Article;
-import org.iesfm.tiendaMondo.repository.ArticleRepository;
+import org.iesfm.tiendamongo.Article;
+import org.iesfm.tiendamongo.repository.ArticleRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

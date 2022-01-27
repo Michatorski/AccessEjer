@@ -1,7 +1,8 @@
-package org.iesfm.tiendaMondo.api.controller;
+package org.iesfm.tiendamongo.api.controller;
 
-import org.iesfm.tiendaMondo.Article;
-import org.iesfm.tiendaMondo.repository.ArticleRepository;
+
+import org.iesfm.tiendamongo.Article;
+import org.iesfm.tiendamongo.repository.ArticleRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;

@@ -1,8 +1,8 @@
-package org.iesfm.tiendaMondo.api.controller;
+package org.iesfm.tiendamongo.api.controller;
 
-import org.iesfm.tiendaMondo.Order;
-import org.iesfm.tiendaMondo.repository.ClientRepository;
-import org.iesfm.tiendaMondo.repository.OrderRepository;
+import org.iesfm.tiendamongo.Order;
+import org.iesfm.tiendamongo.repository.ClientRepository;
+import org.iesfm.tiendamongo.repository.OrderRepository;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestBody;
