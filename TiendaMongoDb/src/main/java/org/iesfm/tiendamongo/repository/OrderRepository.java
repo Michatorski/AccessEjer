@@ -10,7 +10,7 @@ import java.util.List;
 public interface OrderRepository extends MongoRepository<Order, Integer> {
 
 
-    List<Order> findByOrder(String nif);
+   Order findByOrder(String nif);
 
     List<Order> findByClientNif(String nif);
 

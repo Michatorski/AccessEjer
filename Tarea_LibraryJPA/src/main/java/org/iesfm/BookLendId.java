@@ -17,6 +17,8 @@ public class BookLendId implements Serializable {
     @Column(name = "lend_date")
     private Date lendDate;
 
+
+
     public int getMemberId() {
         return memberId;
     }
